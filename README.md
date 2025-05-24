@@ -76,3 +76,14 @@
 
 Ιδιαίτερες ευχαριστίες στη λογίστρια, της οποίας τα συστηματικά λάθη αποτέλεσαν την αρχική έμπνευση για τη δημιουργία αυτού του εργαλείου. 😉
 
+## 🖼️ Screenshots
+
+Παρακάτω μπορείτε να δείτε μερικά ενδεικτικά στιγμιότυπα του Ergatocalc:
+![8](https://github.com/user-attachments/assets/fad1f194-9e12-4d9e-8905-2692599912e2)
+![7](https://github.com/user-attachments/assets/85cf9404-c5cd-47b1-99be-c761cc97df0b)
+![6](https://github.com/user-attachments/assets/5178d862-5c43-4161-92f0-bf49149c658e)
+![5](https://github.com/user-attachments/assets/d00f36f2-2658-44ed-a004-198394aff763)
+![4](https://github.com/user-attachments/assets/d0b86acc-2bde-4929-82a3-2fc77e3a3e97)
+![3](https://github.com/user-attachments/assets/cf2c159f-459d-40ea-86fd-49e50c661990)
+![2](https://github.com/user-attachments/assets/7930f06c-26fb-44da-b345-dac4543f3544)
+![1](https://github.com/user-attachments/assets/17da7279-bfbe-481a-bc5c-91f357921ebe)
