@@ -68,7 +68,7 @@
 Αν ενδιαφέρεστε να αποκτήσετε την εφαρμογή ή έχετε οποιαδήποτε απορία:
 
 - 📧 Email: maxiths1984@gmail.com
-- 🐛 Σχόλια & παρατηρήσεις: Ανοίξτε ένα Issue στο GitHub
+- 🐛 Σχόλια & παρατηρήσεις: Ανοίξτε ένα Issue στο GitHub *https://github.com/Executor21/Ergatocalc/issues*
 
 ---
 
